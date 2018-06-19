@@ -1,2 +1,3 @@
 print("u")
-print("suc") 
+print("don't")
+print("suck") 
